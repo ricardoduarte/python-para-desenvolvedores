@@ -1,0 +1,13 @@
+h4 {
+    font-weight: normal;
+    text-align: justify;
+}
+
+#TOC, #book-cover {
+    width: 50%;
+    float: left;
+}
+
+ol {
+    font-size: 130%;
+}
