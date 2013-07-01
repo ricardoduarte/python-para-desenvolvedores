@@ -8,11 +8,11 @@ h4 {
     float: left;
 }
 
-ol {
+#TOC {
     font-size: 130%;
 }
 
-#main_content_wrap p {
+#main_content_wrap p, #main_content_wrap ol {
     text-align: justify;
 }
 
@@ -23,4 +23,8 @@ ol {
 
 #main_content_wrap ul li a {
     font-weight: bold;
+}
+
+#image-cc {
+    width: auto !important;
 }
