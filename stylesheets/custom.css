@@ -11,3 +11,16 @@ h4 {
 ol {
     font-size: 130%;
 }
+
+#main_content_wrap p {
+    text-align: justify;
+}
+
+#main_content_wrap ul li {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+#main_content_wrap ul li a {
+    font-weight: bold;
+}
