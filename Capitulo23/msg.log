@@ -1,0 +1,6 @@
+con1 id = 63759504
+((87L, 'root', 'localhost', None, 'Sleep', 68L, '', None), (88L, 'root', 'localhost', None, 'Query', 1L, None, 'show processlist'))
+con2 id = 63759504
+((87L, 'root', 'localhost', None, 'Sleep', 68L, '', None), (88L, 'root', 'localhost', None, 'Query', 0L, None, 'show processlist'))
+con3 id = 63759504
+((87L, 'root', 'localhost', None, 'Sleep', 68L, '', None), (88L, 'root', 'localhost', None, 'Query', 0L, None, 'show processlist'))
