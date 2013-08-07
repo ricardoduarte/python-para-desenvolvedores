@@ -27,3 +27,5 @@ Vários assuntos já abordados na edição anterior foram expandidos, incluindo:
 Além disso, a formatação passou por algumas mudanças, visando facilitar a leitura em monitores e a impressão.
 
 Entretanto, a maior parte das mudanças vieram com a revisão do texto, que agora se tornou compatível com a nova ortografia, tarefa facilitada pelo uso do BrOffice.org e suas ferramentas. Várias partes do texto foram ampliadas, capítulos mudaram de ordem, novos exemplos e diagramas foram acrescentados, com o objetivo de melhorar o encadeamento dos assuntos abordados.
+
+Visite o website do livro em [http://ricardoduarte.github.io/python-para-desenvolvedores/](http://ricardoduarte.github.io/python-para-desenvolvedores/)
