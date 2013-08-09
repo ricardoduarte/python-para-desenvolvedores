@@ -1,0 +1,12 @@
+(dp0
+S'port'
+p1
+I80
+sS'timeout'
+p2
+I10
+sS'server'
+p3
+S'10.0.0.1'
+p4
+s.

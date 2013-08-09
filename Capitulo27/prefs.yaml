@@ -1,0 +1,9 @@
+- musica: rock
+- cachorro:
+   cor: Branco
+   nome: Bandit
+   raca: Labrador
+- outros:
+   instrumento: baixo
+   linguagem: [python, ruby]
+   comida: carne
