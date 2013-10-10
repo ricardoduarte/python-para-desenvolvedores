@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg style="stroke-linejoin:round; stroke:black; stroke-width:0.5pt; text-anchor:middle; fill:none" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" height="400px" width="400px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+
+<g>
+
+<g>
+
+<path stroke-width="0.25pt" d="M14.1901 50.75L14.1901 49.25M28.5141 50.75L28.5141 49.25M42.838 50.75L42.838 49.25M57.162 50.75L57.162 49.25M71.4859 50.75L71.4859 49.25M85.8099 50.75L85.8099 49.25" />
+
+<path stroke-width="0.25pt" d="M50 51.5L50 48.5M64.3239 51.5L64.3239 48.5M78.6479 51.5L78.6479 48.5M92.9718 51.5L92.9718 48.5M7.02817 51.5L7.02817 48.5M21.3521 51.5L21.3521 48.5M35.6761 51.5L35.6761 48.5" />
+
+<text font-size="5" transform="translate(64.3239, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">2</text>
+
+<text font-size="5" transform="translate(78.6479, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">4</text>
+
+<text font-size="5" transform="translate(92.9718, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">6</text>
+
+<text font-size="5" transform="translate(7.02817, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">–6</text>
+
+<text font-size="5" transform="translate(21.3521, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">–4</text>
+
+<text font-size="5" transform="translate(35.6761, 51) rotate(0)" stroke="none" dominant-baseline="text-before-edge" fill="black">–2</text>
+
+<path stroke-width="0.25pt" d="M5 50L95 50" />
+
+<path stroke-width="0.25pt" d="M50.75 92.75L49.25 92.75M50.75 90.5L49.25 90.5M50.75 88.25L49.25 88.25M50.75 86L49.25 86M50.75 81.5L49.25 81.5M50.75 79.25L49.25 79.25M50.75 77L49.25 77M50.75 74.75L49.25 74.75M50.75 70.25L49.25 70.25M50.75 68L49.25 68M50.75 65.75L49.25 65.75M50.75 63.5L49.25 63.5M50.75 59L49.25 59M50.75 56.75L49.25 56.75M50.75 54.5L49.25 54.5M50.75 52.25L49.25 52.25M50.75 47.75L49.25 47.75M50.75 45.5L49.25 45.5M50.75 43.25L49.25 43.25M50.75 41L49.25 41M50.75 36.5L49.25 36.5M50.75 34.25L49.25 34.25M50.75 32L49.25 32M50.75 29.75L49.25 29.75M50.75 25.25L49.25 25.25M50.75 23L49.25 23M50.75 20.75L49.25 20.75M50.75 18.5L49.25 18.5M50.75 14L49.25 14M50.75 11.75L49.25 11.75M50.75 9.5L49.25 9.5M50.75 7.25L49.25 7.25" />
+
+<path stroke-width="0.25pt" d="M51.5 83.75L48.5 83.75M51.5 61.25L48.5 61.25M51.5 5L48.5 5M51.5 38.75L48.5 38.75M51.5 27.5L48.5 27.5M51.5 72.5L48.5 72.5M51.5 50L48.5 50M51.5 95L48.5 95M51.5 16.25L48.5 16.25" />
+
+<text font-size="5" transform="translate(47.5, 83.75) rotate(0)" text-anchor="end" stroke="none" dominant-baseline="middle" fill="black">–1.5</text>
+
+<text font-size="5" transform="translate(47.5, 5) rotate(0)" text-anchor="end" stroke="none" dominant-baseline="middle" fill="black">2</text>
+
+<text font-size="5" transform="translate(47.5, 95) rotate(0)" text-anchor="end" stroke="none" dominant-baseline="middle" fill="black">–2</text>
+
+<text font-size="5" transform="translate(47.5, 16.25) rotate(0)" text-anchor="end" stroke="none" dominant-baseline="middle" fill="black">1.5</text>
+
+<path stroke-width="0.25pt" d="M50 95L50 5" />
+
+</g>
+
+<path stroke="#ccbbaa" d="M5 27.5L5.32889 26.6814L5.57502 26.3508L5.98463 26.3323L6.19897 26.5817L6.82929 28.2882L7.33643 30.612L11.3891 59.1127L12.1811 62.095L12.7094 63.0161L13.0411 63.1395L13.3824 62.9041L13.9149 61.8356L14.5647 59.4954L17.7178 41.5048L18.4003 38.7217L19.0021 37.2568L19.3759 36.8843L19.7011 36.916L20.0732 37.3663L20.5805 38.6847L21.4535 42.7152L24.6718 66.4631L25.4156 70.6396L26.1708 73.1823L26.5165 73.6686L26.8204 73.7167L27.2723 73.1126L27.7986 71.3871L28.5351 67.2116L32.8792 24.5859L33.6521 19.8638L34.3862 17.6801L34.6035 17.5049L34.7643 17.5179L35.1834 18.1242L35.7896 20.443L36.594 25.96L40.8315 73.4024L41.6578 79.2782L42.3054 81.8481L42.7199 82.4742L42.8895 82.497L43.1536 82.264L43.6683 80.8906L44.2929 77.6948L45.8885 63.6537L48.656 35.0962L49.5074 29.5202L50.0638 27.3076L50.6888 26.2794L50.9222 26.2927L51.4342 27.0534L52.0669 29.2804L52.9078 34.062L55.8964 56.394L56.5836 60.0132L57.3844 62.5543L57.8217 63.0972L58.1109 63.1209L58.4094 62.87L58.9602 61.7074L59.6156 59.2704L62.6924 41.6279L63.5461 38.2743L63.9123 37.4096L64.3537 36.8943L64.7039 36.9177L65.1708 37.5574L65.8205 39.5815L68.3991 56.951L70.2761 69.9693L70.6626 71.6809L71.4006 73.5558L71.7245 73.7406L72.1341 73.3838L72.72 71.7137L73.2788 68.8859L77.6371 26.5048L78.5443 20.3821L79.0559 18.3645L79.5413 17.5325L79.6932 17.4972L80.0215 17.7921L80.456 18.9596L81.2629 23.3754L85.906 74.0397L86.9425 80.6419L87.3832 82.0273L87.7706 82.4953L88.0734 82.3692L88.62 81.0698L89.3423 77.376L93.9271 33.0548L94.4231 29.9583L95 27.5" />
+
+</g>
+
+</svg>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg style="stroke-linejoin:round; stroke:black; stroke-width:0.5pt; text-anchor:middle; fill:none" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" height="400px" width="400px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+
+<g>
+
+<rect opacity="1.0" height="100" width="100" y="0" x="0" stroke-width="0.2pt" fill="#dddddd" />
+
+<circle opacity="0.5" stroke-width="0.2pt" cy="65" cx="35" r="30" fill="#306090" />
+
+<circle opacity="0.5" stroke-width="0.2pt" cy="65" cx="65" r="30" fill="#609030" />
+
+<circle opacity="0.5" stroke-width="0.2pt" cy="35" cx="50" r="30" fill="#906030" />
+
+</g>
+
+</svg>
+
